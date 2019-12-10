@@ -10,6 +10,7 @@ damon 的个人博客
 
 ### 最新
 
+* [OpenStack镜像服务Glance基本操作](http://www.liwanpeng.com/articles/2019/12/10/1575969199194.html)
 * [世界，你好！](http://www.liwanpeng.com/hello-solo)
 
 
