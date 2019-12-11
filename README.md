@@ -10,8 +10,10 @@ damon 的个人博客
 
 ### 最新
 
+* [Linux 正则表达式元字符](http://www.liwanpeng.com/articles/2019/12/11/1576021346180.html)
+* [Linux磁盘分区](http://www.liwanpeng.com/articles/2019/12/10/1575980163229.html)
+* [OpenStack认证服务Keystone基本操作](http://www.liwanpeng.com/articles/2019/12/10/1575979327827.html)
 * [OpenStack镜像服务Glance基本操作](http://www.liwanpeng.com/articles/2019/12/10/1575969199194.html)
-* [世界，你好！](http://www.liwanpeng.com/hello-solo)
 
 
 
